@@ -31,7 +31,7 @@ const x = 5;
 console.log(x);
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) `var x = 10;`.
 
 ### Jekyll Themes
 
